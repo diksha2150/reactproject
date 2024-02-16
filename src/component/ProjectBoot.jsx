@@ -1,9 +1,10 @@
 import React from "react";
+import AppName from "./AppName";
 
 function ProjectBoot() {
   return (
     <center className="todo-container">
-      <h1>TODO App</h1>
+      <AppName />
       <div class="container text-center">
         <div class="row">
           <div class="col-6">
